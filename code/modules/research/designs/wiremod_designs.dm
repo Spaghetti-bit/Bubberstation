@@ -166,6 +166,11 @@
 	id = "comp_tostring"
 	build_path = /obj/item/circuit_component/tostring
 
+/datum/design/component/color // BUBBER ADDITION
+	name = "Color Component"
+	id = "comp_color"
+	build_path = /obj/item/circuit_component/color
+
 /datum/design/component/tonumber
 	name = "To Number"
 	id = "comp_tonumber"
